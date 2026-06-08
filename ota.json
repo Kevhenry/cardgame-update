@@ -1,5 +1,1 @@
-{
-  "hasUpdate": true,
-  "version": "1.6.2",
-  "url": "https://github.com/Kevhenry/ESP32C3_Cards_WiFi/releases/download/v1.6.2/firmware-v1.6.2.bin"
-}
+{"_comment":"OTA manifest for ESP32C3 Cards WiFi firmware.","_usage":"When releasing: 1) Tag a release. 2) Attach firmware.bin. 3) Update version/url below and push.","hasUpdate":false,"version":"1.6.0","url":""}
