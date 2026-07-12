@@ -1,1 +1,6 @@
-{"hasUpdate":true,"version":"1.8.3","url":"https://github.com/Kevhenry/cardgame-update/releases/download/v1.8.3/firmware-v1.8.3.bin","signature":"b013ff24066d5a71d127283817d8a1ede4c13c9aa624c407ff36d0c3c327da573b877b6fd3b9c7e4f2b9190362e12778e98673491adacc591aee82b9aafa3b06"}
+{
+  "hasUpdate": true,
+  "signature": "14ae194a73f21dedcb0956153bb478075ddac2b290d1166622c3cfb421391a8eed0b8a9ea09fae74e22087b96b3a43c1dde307860c7a1f7252f04c924106ce03",
+  "version": "1.8.3",
+  "url": "https://github.com/Kevhenry/cardgame-update/releases/download/v1.8.3-dev/firmware-v1.8.3-dev.bin"
+}
