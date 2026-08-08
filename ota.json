@@ -1,8 +1,1 @@
-{
-  "_comment": "OTA manifest for ESP32C3 Cards WiFi firmware. Place this file in the repo root and commit/push. The ESP32 checks this raw URL when the host triggers an update.",
-  "_usage": "When you release a new version: 1) Tag a release (e.g. v1.7.2). 2) Build and attach firmware.bin to the release. 3) Update the version/url below and push to main.",
-  "hasUpdate": true,
-  "version": "1.9.0",
-  "url": "https://github.com/Kevhenry/cardgame-update/releases/download/v1.9.0/firmware-v1.9.0.bin",
-  "signature": "b47674f3920d8d00b9dc06bb802b38f09a2376562c32f5e3f38f17dc864e0538fef87d8874f462d517b4474a561e59fa50b5ff59cfb141cac518ec2846791b00"
-}
+{"hasUpdate":true,"version":"1.9.1","url":"https://github.com/Kevhenry/cardgame-update/releases/download/v1.9.1/firmware-v1.9.1.bin","signature":"589c7809899ac72190f43ac126728ecf75eb0331eee93037b4eb449807495651ecdeae4f37ce68216f68a51a72a52759aa8214a4190df31709f2a9b55e99b507"}
